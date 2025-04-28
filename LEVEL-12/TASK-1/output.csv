@@ -1,0 +1,7 @@
+order_id,customer_name,product
+1,Alice,Keyboard
+1,Alice,Mouse
+2,Bob,Monitor
+3,Alice,Laptop
+3,Alice,Mouse
+3,Alice,Mousepad

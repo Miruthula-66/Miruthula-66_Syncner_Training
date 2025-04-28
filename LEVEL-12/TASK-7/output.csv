@@ -1,0 +1,4 @@
+order_id,order_date,customer_name,product_name,quantity,price,total_price
+101,2023-01-01,Alice,Laptop,2,1000.00,2000.00
+101,2023-01-01,Alice,Mouse,3,20.00,60.00
+102,2023-01-02,Bob,Keyboard,1,50.00,50.00

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67fbeb4b22cf0678b10a211a"
+  },
+  "product": "Laptop",
+  "category": "Electronics",
+  "amount": 1000
+},
+{
+  "_id": {
+    "$oid": "67fbeb4b22cf0678b10a211b"
+  },
+  "product": "Shirt",
+  "category": "Fashion",
+  "amount": 30
+},
+{
+  "_id": {
+    "$oid": "67fbeb4b22cf0678b10a211c"
+  },
+  "product": "Headphones",
+  "category": "Electronics",
+  "amount": 150
+},
+{
+  "_id": {
+    "$oid": "67fbeb4b22cf0678b10a211d"
+  },
+  "product": "Shoes",
+  "category": "Fashion",
+  "amount": 80
+}]

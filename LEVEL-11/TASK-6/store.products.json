@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67fbe862cc40ef81469fe527"
+  },
+  "name": "Wireless Mouse",
+  "description": "Ergonomic wireless mouse",
+  "price": 25
+},
+{
+  "_id": {
+    "$oid": "67fbe862cc40ef81469fe529"
+  },
+  "name": "Gaming Mousepad",
+  "description": "Large mousepad for gamers",
+  "price": 15
+},
+{
+  "_id": {
+    "$oid": "67fbf5366172746fe4ece642"
+  },
+  "name": "Wireless Mouse",
+  "description": "Ergonomic wireless mouse",
+  "price": 25
+},
+{
+  "_id": {
+    "$oid": "67fbf5366172746fe4ece644"
+  },
+  "name": "Gaming Mousepad",
+  "description": "Large mousepad for gamers",
+  "price": 20
+}]
